@@ -1,2 +1,5 @@
 pyfeats
 pycaret
+pandas
+matplotlib
+pillow
